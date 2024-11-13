@@ -1,0 +1,41 @@
+section{
+    width: 100%;
+    min-height: 100vh;
+    padding: 30px 0 100px;
+    text-align: center;
+    background-color: rgb(37, 37, 255);
+    background-blend-mode: overlay, normal, normal, normal, normal;
+}
+
+h1{
+    color: #000000;
+    font-size: 52px;
+}
+
+h2{
+    color: #000000;
+    font-size: 40px;
+}
+p{
+    color: #000000;
+    font-size: 22px;
+}
+
+
+button{
+    background-color: transparent;
+    color: #bcccff;
+    padding: 14px 40px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 50px;
+    font-style: italic;
+    margin: 20px;
+    transition: .4s;
+    cursor: pointer;
+}
+
+button:hover{
+    background: rgb(0, 0, 0);
+    color: #000;
+    border-radius: 0;
+}
