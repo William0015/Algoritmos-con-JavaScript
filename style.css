@@ -1,9 +1,10 @@
+
 section{
     width: 100%;
     min-height: 100vh;
     padding: 30px 0 100px;
     text-align: center;
-    background-img: url(img/js.png);
+    background-color: #0059ff;
     background-blend-mode: overlay, normal, normal, normal, normal;
 }
 
