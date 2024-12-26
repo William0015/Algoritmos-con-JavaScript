@@ -3,7 +3,7 @@ section{
     min-height: 100vh;
     padding: 30px 0 100px;
     text-align: center;
-    background-color: rgb(37, 37, 255);
+    background-img: url(img/js.png);
     background-blend-mode: overlay, normal, normal, normal, normal;
 }
 
